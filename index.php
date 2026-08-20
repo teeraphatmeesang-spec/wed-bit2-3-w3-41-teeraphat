@@ -203,7 +203,7 @@
 <footer>
 
     <p>
-        © 2026 ระบบจัดการการจองห้องพัก | Hotel Management System
+        © 2026 ระบบจัดการการจองห้องพัก | Hotel Management System.
     </p>
 
 </footer>
