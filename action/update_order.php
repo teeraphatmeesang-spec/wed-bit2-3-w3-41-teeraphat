@@ -7,7 +7,7 @@ $image = $_POST["image"];
 $room_id = $_POST["room_id"];
 $order_id = $_POST['order_id'];
 
-include "connect.phap";
+include "connect.php";
 
 $sql = "UPDATE `orders` 
         SET

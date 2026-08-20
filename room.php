@@ -163,7 +163,7 @@
 
     <!-- Footer -->
     <footer>
-        &copy; <?php echo date("Y"); ?> nattawut wannasuk bit2/3 E-TECH
+        &copy; <?php echo date("Y"); ?> © 2026 ระบบจัดการการจองห้องพัก | Hotel Management System
     </footer>
 
 </body>
